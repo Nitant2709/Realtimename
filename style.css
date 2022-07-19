@@ -1,0 +1,27 @@
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    box-shadow:7px 7px 7px #cc89f5;
+    font-family:'Edu SA Beginner', cursive;
+}
+.note{
+    font-size:15px;
+    color:white;
+}
+.copy_right_footer{
+    position:fixed;
+    color:blueviolet;
+    bottom:0;
+    width:100%;
+    background-color:aquamarine;
+    font-family:'Edu SA Beginner', cursive;
+    line-height:3;
+    text-align:center;
+    box-shadow:7px 7px 7px #cc89f5;
+}
+canvas{
+    border:5px dotted goldenrod;
+    border-radius:20px;
+    box-shadow:7px 7px 7px #cc89f5;
+}
